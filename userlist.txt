@@ -1,0 +1,3 @@
+"postgres" "md50da9ad9e72f4a215ede570b27a736c4a"
+"admin" "md5b1a4ddbf9cc513dc6ea9777bf8740550"
+"stats" "md5f614c20ed1ead9a439f1221bd3d24490"

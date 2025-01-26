@@ -1,0 +1,3 @@
+```
+./generate-userlist >> userlist.txt
+```
